@@ -1,1 +1,2 @@
 # FSD_PROJECT: Web Application
+The Movie Booking System revolutionizes ticketing with AI-driven recommendations, real-time seat selection, and blockchain security. It ensures transparent pricing, prevents fraud, and eliminates double booking. Social booking features enhance group reservations, while multi-payment support streamlines transactions, creating a seamless, secure, and efficient movie-going experience for all users.
